@@ -6,9 +6,5 @@
         xmlns:local="clr-namespace:asdasd"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="141,135,0,0" VerticalAlignment="Top" Width="100"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="439,203,0,0" VerticalAlignment="Top" Width="75"/>
-
-    </Grid>
+    <Grid/>
 </Window>
